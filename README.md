@@ -20,8 +20,6 @@
   <img align= "center" alt = "Spring Boot"src ="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </div> <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raytsson&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
 # Sobre mim
 
 Sou um acadêmico dedicado de Análise e Desenvolvimento de Sistemas com uma paixão ardente pelo desenvolvimento em Java e pelo universo do back end. Minha jornada no mundo da programação começou com uma profunda imersão na linguagem Java, e desde então tenho explorado suas diversas aplicações e potenciais.
